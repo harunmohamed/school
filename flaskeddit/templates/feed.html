@@ -77,14 +77,12 @@
               >
             </h5>
             <h6 class="card-subtitle text-muted">
-              <small
-                >Posted on {{ post.date_created.strftime("%m/%d/%Y") }} by
+              <small>Posted on {{post.community_name}} {{ post.date_created.strftime("%m/%d/%Y") }} by
                 <a
                   class="text-muted"
                   href="{{ url_for('user.app_user', username=post.username) }}"
                   >u/{{ post.username }}</a
-                ></small
-              >
+                ></small>
             </h6>
           </div>
         </div>
