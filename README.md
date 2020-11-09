@@ -89,7 +89,7 @@ Feel free to submit a pull request!
 
 ## Authors
 
-- **harunmohamed** - _Author_ - [aqche](https://github.com/harunmohamed)
+- **Harun Mohamed** - _Author_ - [harunmohamed](https://github.com/harunmohamed)
 
 
 ## License
