@@ -8,11 +8,11 @@
   <p align="center">
     A Platform for Near East University Students to join communities around their courses and engage with each other.
     <br />
-    <a href="https://bambi.app">View App</a>
+    <a href="#">View App</a>
     ·
-    <a href="https://bambi.app/m/harun">Report Bug</a>
+    <a href="#">Report Bug</a>
     ·
-    <a href="https://bambi.app/m/harun">Request Feature</a>
+    <a href="#">Request Feature</a>
   </p>
 </p>
 
