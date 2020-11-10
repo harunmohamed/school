@@ -1,6 +1,21 @@
-# Bambi School
+<p align="center">
+  <a href="https://github.com/harunmohamed/school">
+    <img src="https://bit.ly/3bYmo7t" alt="Logo" width="80" height="80">
+  </a>
 
-A Platform for Near East University Students to join communities around their courses.
+  <h3 align="center">Bambi School</h3>
+
+  <p align="center">
+    A Platform for Near East University Students to join communities around their courses and engage with each other.
+    <br />
+    <a href="https://bambi.app">View App</a>
+    ·
+    <a href="https://bambi.app/m/harun">Report Bug</a>
+    ·
+    <a href="https://bambi.app/m/harun">Request Feature</a>
+  </p>
+</p>
+
 
 ## Features
 
