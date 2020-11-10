@@ -18,7 +18,7 @@
     {% endif %}
   </ol>
 </nav>
-<h2 class="mb-3">f/{{ community.name }}</h2>
+<h2 class="mb-3">{{ community.name }}</h2>
 <div class="row">
   <div class="col-8">
     {% for post in posts.items %}
@@ -82,7 +82,7 @@
             </h5>
             <h6 class="card-subtitle text-muted">
               <small
-                >Posted on {{post.community_name}} {{ post.date_created.strftime("%m/%d/%Y") }} by
+                >Posted on {{ post.date_created.strftime("%m/%d/%Y") }} by
                 <a
                   class="text-muted"
                   href="{{ url_for('user.app_user', username=post.username) }}"
