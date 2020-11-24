@@ -17,7 +17,7 @@ def get_communities(page):
         )
         .join(AppUser, Community.user_id == AppUser.id)
         .order_by(Community.date_created.desc())
-        .paginate(page=page, per_page=5)
+        .paginate(page=page, per_page=20)
     )
     return communities
 
